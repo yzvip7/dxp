@@ -1,0 +1,112 @@
+Component Name : STM32F103VCT6W
+
+Part Count : 2
+
+Part : U?
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : U?
+     Pins - (Normal) : 100
+          PE2/TRACECK`   1              I/O
+          V_BAT          6              Power
+          PC13-TAMPER-RTC7              I/O
+          PE3/TRACED0    2              I/O
+          PE4/TRACED1    3              I/O
+          PE5/TRACED2    4              I/O
+          PE6/TRACED3    5              I/O
+          PC14-OSC32-IN  8              I/O
+          PC15-OSC32-OUT 9              I/O
+          Vss-5          10             Power
+          Vdd-5          11             Power
+          OSC-IN         12             Input
+          OSC-OUT        13             Output
+          nRST           14             Input
+          PC0/ADCx_IN10  15             I/O
+          PC1/ADCx_IN11  16             I/O
+          PC2/ADCx_IN12  17             I/O
+          PC3/ADCx_IN13  18             I/O
+          VssA           19             Power
+          V_REF-         20             Power
+          V_REF+         21             Power
+          VDDA           22             Power
+          PA0-WKUP/AI0   23             I/O
+          PA1/AI1        24             I/O
+          PA2/TXD2/AD2   25             I/O
+          PA3/RXD2/AD3   26             I/O
+          Vss-4          27             Power
+          Vdd-4          28             Power
+          PA4/NSS1/ADCx_I429             I/O
+          PA5/SCK1/ADCx_I530             I/O
+          PA6/MISO1/ADCx_I631             I/O
+          PA7/MOSI1/ADCx_I732             I/O
+          PC4/ADCx_I14   33             I/O
+          PC5/ADCx_I15   34             I/O
+          PB0/ADCx_I8    35             I/O
+          PB1/ADCx_I9    36             I/O
+          PB2/BOOT1      37             I/O
+          PE7            38             I/O
+          PE8            39             I/O
+          PE9            40             I/O
+          PE10           41             I/O
+          PE11           42             I/O
+          PE12           43             I/O
+          PE13           44             I/O
+          PE14           45             I/O
+          PE15           46             I/O
+          PB10/TXD3      47             I/O
+          PB11/RXD3      48             I/O
+          Vss-1          49             Power
+          Vdd-1          50             Power
+          CK3/PB12       51             I/O
+          CTS3/PB13      52             I/O
+          RTS3/PB14      53             I/O
+          PB15           54             I/O
+          PD8            55             I/O
+          PD9            56             I/O
+          PD10           57             I/O
+          PD11           58             I/O
+          PD12           59             I/O
+          PD13           60             I/O
+          PD14           61             I/O
+          PD15           62             I/O
+          PC6            63             I/O
+          PC7            64             I/O
+          PC8            65             I/O
+          PC9            66             I/O
+          PA8            67             I/O
+          TXD1 / PA9     68             I/O
+          RXD1/PA10      69             I/O
+          USB_D-/PA11    70             I/O
+          USB_D+/PA12    71             I/O
+          SWDIO/JTMSPA13 72             I/O
+          NC             73             I/O
+          Vss-3          99             Power
+          Vdd-3          100            Power
+          Vss-2          74             Power
+          Vdd-2          75             Power
+          SWCLK/JTCK/PA1476             I/O
+          JTDI/PA15      77             I/O
+          TXD4/PC10      78             I/O
+          RXD4/PC11      79             I/O
+          TXD5/PC12      80             I/O
+          PD0            81             I/O
+          PD1            82             I/O
+          RXD5/PD2       83             I/O
+          PD3            84             I/O
+          PD4            85             I/O
+          PD5/(TXD2)     86             I/O
+          PD6(RXD2)      87             I/O
+          PD7            88             I/O
+          PB3/(SCK1)/JTDO89             I/O
+          PB4/(MISO1)/JNTRST90             I/O
+          PB5/(MOSI1)    91             I/O
+          I2C1_SCL/PB6   92             I/O
+          I2C1_SDA/PB7   93             I/O
+          BOOT0          94             Power
+          PB8            95             I/O
+          PB9            96             I/O
+          PE0            97             I/O
+          PE1            98             I/O
+          Hidden Pins : 
+
